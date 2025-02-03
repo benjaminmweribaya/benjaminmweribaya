@@ -1,6 +1,6 @@
 👋 Hi there! I'm Benjamin Mweri Baya
 
-As a Chemical and Process Engineer, my passion for solving complex problems has naturally extended into the world of software development. Engineering, at its core, is about optimization, efficiency, and innovation—skills that translate seamlessly into the tech industry. I believe that the fusion of engineering principles and coding can create transformative solutions, not only in chemical processes but across industries.
+As a Chemical Engineer, my passion for solving complex problems has naturally extended into the world of software development. Engineering, at its core, is about optimization, efficiency, and innovation—skills that translate seamlessly into the tech industry. I believe that the fusion of engineering principles and coding can create transformative solutions, not only in chemical processes but across industries.
 
 👀 What I’m interested in:
 I am dedicated to building a career that drives sustainable innovation and positive change. By combining my engineering expertise with software development, I aim to develop solutions that address global challenges in environmental conservation, process optimization, and community empowerment.

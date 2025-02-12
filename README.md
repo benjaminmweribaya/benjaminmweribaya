@@ -24,7 +24,7 @@
 
 ### **Backend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,jwt" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,ruby,rails,jwt" alt="Backend Stack" />
 </p>
 
 ### **3D Technologies**  

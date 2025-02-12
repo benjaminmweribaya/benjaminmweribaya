@@ -1,27 +1,66 @@
-👋 Hi there! I'm Benjamin Mweri Baya
+<h1 align="center">Hi there, I'm Benjamin Mweri Baya 👋</h1>
 
-As a Chemical Engineer, my passion for solving complex problems has naturally extended into the world of software development. Engineering, at its core, is about optimization, efficiency, and innovation—skills that translate seamlessly into the tech industry. I believe that the fusion of engineering principles and coding can create transformative solutions, not only in chemical processes but across industries.
+<p align="center">
+🚀 Full-Stack Software Developer | 💻 Passionate about Scalable & Cloud-Based Applications | 🌱 Lifelong Learner  
+</p>
 
-👀 What I’m interested in:
-I am dedicated to building a career that drives sustainable innovation and positive change. By combining my engineering expertise with software development, I aim to develop solutions that address global challenges in environmental conservation, process optimization, and community empowerment.
+---
 
-🌱 Current Journey:
-Currently, I’m diving deeper into software engineering through FreeCodeCamp while expanding my knowledge in full-stack software development at Moringa School. My goal is to harness the power of technology to create tools that optimize processes, enhance sustainability, and bring efficiency to various fields, including chemical engineering.
+## 🔹 About Me 
+- 🌍 Based in **Nairobi, Kenya**
+- 🎓 **Full-Stack Software Developer** skilled in **React, Flask, Node.js, and PostgreSQL**
+- ☁️ Enthusiastic about **serverless technologies, cloud computing, and web performance optimization**
+- 🏗️ Building innovative solutions for **real-world problems**
+- 📖 Currently learning **AWS & Advanced System Design**
 
-💡 How Coding Connects to Engineering:
-Chemical and process engineering is all about designing and managing systems that transform raw materials into useful products. Coding, on the other hand, allows us to automate, analyze, and optimize these systems in a more efficient and scalable way. Whether it's creating algorithms to simulate chemical processes, or developing software to control manufacturing operations, coding enables me to take my engineering skills to the next level.
+---
 
-💞️ Collaboration Interests:
-I'm eager to collaborate on projects that:
-- Address societal issues
-- Promote environmental sustainability
-- Empower communities through tech-driven solutions
+## 🚀 Tech Stack  
 
-📫 Let’s Connect:
-You can reach me via email at b3njaminbaya@gmail.com. Let's chat about ideas, and collaborations, or just geek out over tech and engineering!
+### **Frontend**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" alt="Frontend Stack" />
+</p>
 
-😄 Pronouns:
-He/Him
+### **Backend**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" alt="Backend Stack" />
+</p>
 
-⚡ Fun Fact:
-I don't know the color of my toothbrush but I can code a program to help me remember it!
+### **Database & Cloud**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker" alt="Database & Cloud" />
+</p>
+
+### **Tools & DevOps**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="DevOps Stack" />
+</p>
+
+---
+
+## 🌟 Projects  
+💡 Explore my latest projects:  
+
+🔹 **[Micro-Donation Platform](https://github.com/benjaminmweribaya/Micro-Donation-Platform)** - A **Flask-React Web App** enabling micro-donations for social causes.  
+🔹 **[Eco Home Guide](https://github.com/benjaminmweribaya/eco-home-guide-app)** - A React app promoting sustainable living.  
+🔹 **[CLI-Based Reading Tracker](https://github.com/benjaminmweribaya/CLI-based-Reading-Tracker-Application)** - A Python CLI tool for book lovers.  
+
+📌 See more in my **[GitHub Repositories](https://github.com/benjaminmweribaya?tab=repositories)**
+
+---
+
+## 📫 Let's Connect  
+
+<p align="left">
+  <a href="mailto:b3njaminbaya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/benjaminmweribaya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://dev.to/benjaminmweribaya"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.linkedin.com/in/benjamin-mweri-baya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://benjamin-mweri-baya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+⚡ *"Building solutions that matter, one line of code at a time!"*
+

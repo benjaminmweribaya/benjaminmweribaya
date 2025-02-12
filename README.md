@@ -24,12 +24,22 @@
 
 ### **Backend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,jwt" alt="Backend Stack" />
+</p>
+
+### **3D & AR Technologies**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs,babylonjs" alt="3D & AR Stack" />
+</p>
+
+### **Game & Physics Engine**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cannonjs,arjs" alt="Game & Physics Stack" />
 </p>
 
 ### **Database & Cloud**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker" alt="Database & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker,render" alt="Database & Cloud" />
 </p>
 
 ### **Tools & DevOps**  

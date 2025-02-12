@@ -29,12 +29,13 @@
 
 ### **3D & AR Technologies**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=threejs,babylonjs" alt="3D & AR Stack" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="3D & AR Stack" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/AR.js_Logo.png" alt="AR.js" width="60"/>
 </p>
 
 ### **Game & Physics Engine**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cannonjs,arjs" alt="Game & Physics Stack" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cannon.js_logo.png" alt="Cannon.js" width="100"/>
 </p>
 
 ### **Database & Cloud**  

@@ -62,5 +62,34 @@
 
 ---
 
+## ⚡ Fun Fact  
+
+😄 *I don't know the color of my toothbrush, but I can code a program to help me remember it!*  
+
+Here’s a simple Python program to store and remind me of the color:  
+
+```python
+import json
+
+# Save the toothbrush color
+def save_color(color):
+    with open("toothbrush.json", "w") as file:
+        json.dump({"toothbrush_color": color}, file)
+
+# Retrieve the toothbrush color
+def get_color():
+    try:
+        with open("toothbrush.json", "r") as file:
+            data = json.load(file)
+            return f"Your toothbrush color is {data['toothbrush_color']}!"
+    except FileNotFoundError:
+        return "You haven't saved your toothbrush color yet!"
+
+# Example usage
+save_color("Blue")  # Replace "Blue" with the actual color
+print(get_color())
+
+--- 
+
 ⚡ *"Building solutions that matter, one line of code at a time!"*
 

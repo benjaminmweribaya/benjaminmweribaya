@@ -11,7 +11,7 @@
 - 🎓 **Full-Stack Software Developer** skilled in **React, Flask, Node.js, and PostgreSQL**
 - ☁️ Enthusiastic about **serverless technologies, cloud computing, and web performance optimization**
 - 🏗️ Building innovative solutions for **real-world problems**
-- 📖 Currently learning **AWS & Advanced System Design**
+- 📖 Currently learning **AWS, Advanced System Design, and 3D & AR Technologies**
 
 ---
 

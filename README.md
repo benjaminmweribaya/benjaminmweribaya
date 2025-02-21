@@ -19,12 +19,17 @@
 
 ### **Frontend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
 
 ### **Backend**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,ruby,rails,jwt" alt="Backend Stack" />
+</p>
+
+### **UI/UX Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="UI/UX Design" />
 </p>
 
 ### **3D Technologies**  
@@ -34,7 +39,7 @@
 
 ### **Database & Cloud**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker,render" alt="Database & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,aws,docker,render" alt="Database & Cloud" />
 </p>
 
 ### **Tools & DevOps**  

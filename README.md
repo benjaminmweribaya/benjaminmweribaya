@@ -8,7 +8,7 @@
 
 ## 🔹 About Me 
 - 🌍 Based in **Nairobi, Kenya**
-- 🎓 **Full-Stack Software Developer** skilled in **React, Flask, Node.js, and PostgreSQL**
+- 🎓 **Full-Stack Software Developer** skilled in **Python (Flask) and JavaScript (React, Node.js, Next.js)**
 - ☁️ Enthusiastic about **serverless technologies, cloud computing, and web performance optimization**
 - 🏗️ Building innovative solutions for **real-world problems**
 - 📖 Currently learning **AWS, Advanced System Design, and 3D & AR Technologies**

@@ -50,11 +50,30 @@
 ---
 
 ## 🌟 Projects  
-💡 Explore my latest projects:  
+💡 Explore projects here:  
 
 🔹 **[Micro-Donation Platform](https://github.com/benjaminmweribaya/Micro-Donation-Platform)** - A **Flask-React Web App** enabling micro-donations for social causes.  
 🔹 **[Eco Home Guide](https://github.com/benjaminmweribaya/eco-home-guide-app)** - A React app promoting sustainable living.  
 🔹 **[CLI-Based Reading Tracker](https://github.com/benjaminmweribaya/CLI-based-Reading-Tracker-Application)** - A Python CLI tool for book lovers.  
+🔹 **[Taskly App](https://github.com/benjaminmweribaya/taskly-app-front-end)** - A task management app for productivity.  
+🔹 **[Book Lending Library](https://github.com/benjaminmweribaya/book-lending-library)** - A web app for managing book rentals.  
+🔹 **[User Management System](https://github.com/benjaminmweribaya/user-management-system)** - A system for managing user authentication and roles.  
+🔹 **[Movie Character Explorer](https://github.com/benjaminmweribaya/movie-character-explorer)** - Discover movie characters with detailed info.  
+🔹 **[Becof Organic Chemicals](https://github.com/benjaminmweribaya/becof-organic-chemicals)** - Eco-friendly chemical solutions for agriculture.  
+🔹 **[Textile Waste Recycling App](https://github.com/benjaminmweribaya/textile-waste-recycling-app)** - Promoting sustainability by managing textile waste.  
+🔹 **[Leetcode Problem Tracer](https://github.com/benjaminmweribaya/Leetcode-Problem-Tracer)** - Track and organize Leetcode practice efficiently.  
+🔹 **[URL Shortener](https://github.com/benjaminmweribaya/URL-Shortener)** - A tool to generate shortened URLs.  
+🔹 **[AI Resume Screener](https://github.com/benjaminmweribaya/AI-Resume-Screener)** - AI-powered tool for analyzing resumes.  
+🔹 **[AI Code Review Bot](https://github.com/benjaminmweribaya/AI-Code-Review-Bot)** - Automating code reviews with AI.  
+🔹 **[NMT Agent for Low-Resource Languages](https://github.com/benjaminmweribaya/NMT-Agent-for-Low-Resource-Languages)** - Neural Machine Translation for underserved languages.  
+🔹 **[AI-Enhanced Cybersecurity Threat Detector](https://github.com/benjaminmweribaya/AI-Enhanced-Cybersecurity-Threat-Detector)** - AI-based cybersecurity threat detection system.  
+🔹 **[Real-Time Anomaly Detection in IoT Networks](https://github.com/benjaminmweribaya/Real-Time-Anomaly-Detection-in-IoT-Networks)** - Detect anomalies in IoT networks using AI.  
+🔹 **[Food Delivery App](https://github.com/benjaminmweribaya/Food-Delivery-App)** - A React Native app for ordering food.  
+🔹 **[Password Generator](https://github.com/benjaminmweribaya/Password-Generator)** - Secure password generator tool.  
+🔹 **[Customer Support Chatbot](https://github.com/benjaminmweribaya/Customer-Support-Chatbot)** - AI-powered chatbot for customer support.  
+🔹 **[Time Tracking App](https://github.com/benjaminmweribaya/Time-Tracking-App)** - A tool to track and manage time effectively.  
+
+---
 
 📌 See more in my **[GitHub Repositories](https://github.com/benjaminmweribaya?tab=repositories)**
 

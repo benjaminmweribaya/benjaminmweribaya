@@ -50,7 +50,7 @@
 ---
 
 ## 🌟 Projects  
-💡 Explore projects here:  
+💡 Explore my projects here:  
 
 🔹 **[Micro-Donation Platform](https://github.com/benjaminmweribaya/Micro-Donation-Platform)** - A **Flask-React Web App** enabling micro-donations for social causes.  
 🔹 **[Eco Home Guide](https://github.com/benjaminmweribaya/eco-home-guide-app)** - A React app promoting sustainable living.  

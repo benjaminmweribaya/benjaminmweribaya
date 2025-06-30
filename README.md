@@ -11,7 +11,7 @@
 - 🌍 Based in **Nairobi, Kenya**
 - 🧠 **Engineer by Mindset**, **Developer by Craft**, **Visionary by Purpose**
 - 💼 Currently working as:
-  - 🚀 **Software Engineer Intern at Sensys (Java + Spring Boot)
+  - 🚀 **Software Engineer Intern at Sensys (Java + Spring Boot)**
   - 🌐 **Full-Stack Developer at Buzlin (Canada)** — Building a rideshare & e-commerce platform
 - 🏗️ Founder of **Tevexa Technologies** — Blockchain-powered traceability and impact solutions
 - 💡 Passionate about **cloud computing**, **microservices**, **clean architecture**, and **human-centered design**

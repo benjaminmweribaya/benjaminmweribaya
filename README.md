@@ -1,30 +1,43 @@
 <h1 align="center">Hi there, I'm Benjamin Mweri Baya 👋</h1>
 
 <p align="center">
-🚀 Full-Stack Software Developer | 💻 Passionate about Scalable & Cloud-Based Applications | 🌱 Lifelong Learner  
+⚙️ Full-Stack Software Engineer | 🌍 Building Scalable & Impactful Systems | 🧠 Systems Thinker 
 </p>
 
 ---
 
-## 🔹 About Me 
+## 🔹 About Me
+
 - 🌍 Based in **Nairobi, Kenya**
-- 🎓 **Full-Stack Software Developer** skilled in **Python (Flask) and JavaScript (React, Node.js, Next.js)**
-- ☁️ Enthusiastic about **serverless technologies, cloud computing, and web performance optimization**
-- 🏗️ Building innovative solutions for **real-world problems**
-- 📖 Currently learning **AWS, Advanced System Design, and 3D & AR Technologies**
+- 🧠 **Engineer by Mindset**, **Developer by Craft**, **Visionary by Purpose**
+- 💼 Currently working as:
+  - 🚀 **Software Engineer Intern at Sensys (Java + Spring Boot)
+  - 🌐 **Full-Stack Developer at Buzlin (Canada)** — Building a rideshare & e-commerce platform
+- 🏗️ Founder of **Tevexa Technologies** — Blockchain-powered traceability and impact solutions
+- 💡 Passionate about **cloud computing**, **microservices**, **clean architecture**, and **human-centered design**
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack
 
-### **Frontend**  
+### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
 
-### **Backend**  
+### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,ruby,rails,jwt" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,java,spring,nodedotjs" alt="Backend Stack" />
+</p>
+
+### **Database & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,docker" alt="Database & Cloud" />
+</p>
+
+### **DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="DevOps Stack" />
 </p>
 
 ### **UI/UX Design**
@@ -32,19 +45,24 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="UI/UX Design" />
 </p>
 
-### **3D Technologies**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=threejs" alt="3D & AR Stack" />
-</p>
+---
 
-### **Database & Cloud**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,aws,docker,render" alt="Database & Cloud" />
-</p>
+## ✨ My Current Mission
 
-### **Tools & DevOps**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="DevOps Stack" />
+> To engineer platforms that empower people, transform systems, and elevate communities — through purpose-aligned technology, divine insight, and bold innovation.
+
+---
+
+## 📬 Let’s Connect
+
+- 🌐 [My Portfolio](https://benjamin-mweri-baya.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-mweri-baya/)
+- 📫 Email: b3njaminbaya@gmail.com
+
+---
+
+<p align="center">
+🛠️ *Building in love, purpose, and clarity — one system at a time.*
 </p>
 
 ---

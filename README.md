@@ -75,7 +75,7 @@
 🔹 **[User Management System](https://github.com/benjaminmweribaya/user-management-system)** - A system for managing user authentication and roles.  
 🔹 **[Movie Character Explorer](https://github.com/benjaminmweribaya/movie-character-explorer)** - Discover movie characters with detailed info.  
 🔹 **[Becof Organic Chemicals](https://github.com/benjaminmweribaya/becof-organic-chemicals)** - Eco-friendly chemical solutions for agriculture.  
-🔹 **[Textile Waste Recycling App](https://github.com/benjaminmweribaya/textile-waste-recycling-app)** - Promoting sustainability by managing textile waste.  
+🔹 **[BenitoLoop](https://github.com/benjaminmweribaya/BenitoLoop)** - Promoting sustainability by managing textile waste.  
 🔹 **[Leetcode Problem Tracer](https://github.com/benjaminmweribaya/Leetcode-Problem-Tracer)** - Track and organize Leetcode practice efficiently.  
 🔹 **[URL Shortener](https://github.com/benjaminmweribaya/URL-Shortener)** - A tool to generate shortened URLs.  
 🔹 **[AI Resume Screener](https://github.com/benjaminmweribaya/AI-Resume-Screener)** - AI-powered tool for analyzing resumes.  

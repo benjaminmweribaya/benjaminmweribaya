@@ -70,8 +70,7 @@
 🔹 **[Micro-Donation Platform](https://github.com/benjaminmweribaya/Micro-Donation-Platform)** - A **Flask-React Web App** enabling micro-donations for social causes.  
 🔹 **[Eco Home Guide](https://github.com/benjaminmweribaya/eco-home-guide-app)** - A React app promoting sustainable living.  
 🔹 **[CLI-Based Reading Tracker](https://github.com/benjaminmweribaya/CLI-based-Reading-Tracker-Application)** - A Python CLI tool for book lovers.  
-🔹 **[Taskly App](https://github.com/benjaminmweribaya/taskly-app-front-end)** - A task management app for productivity.  
-🔹 **[Book Lending Library](https://github.com/benjaminmweribaya/book-lending-library)** - A web app for managing book rentals.  
+🔹 **[Taskly App](https://github.com/benjaminmweribaya/taskly-app-front-end)** - A task management app for productivity.   
 🔹 **[User Management System](https://github.com/benjaminmweribaya/user-management-system)** - A system for managing user authentication and roles.  
 🔹 **[Movie Character Explorer](https://github.com/benjaminmweribaya/movie-character-explorer)** - Discover movie characters with detailed info.  
 🔹 **[Becof Organic Chemicals](https://github.com/benjaminmweribaya/becof-organic-chemicals)** - Eco-friendly chemical solutions for agriculture.  

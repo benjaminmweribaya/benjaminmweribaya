@@ -79,7 +79,7 @@
 🔹 **[URL Shortener](https://github.com/benjaminmweribaya/URL-Shortener)** - A tool to generate shortened URLs.  
 🔹 **[AI Resume Screener](https://github.com/benjaminmweribaya/AI-Resume-Screener)** - AI-powered tool for analyzing resumes.  
 🔹 **[NMT Agent for Low-Resource Languages](https://github.com/benjaminmweribaya/NMT-Agent-for-Low-Resource-Languages)** - Neural Machine Translation for underserved languages.  
-🔹 **[AI-Enhanced Cybersecurity Threat Detector](https://github.com/benjaminmweribaya/AI-Enhanced-Cybersecurity-Threat-Detector)** - AI-based cybersecurity threat detection system.  
+🔹 **[AI-Enhanced Threat Detector](https://github.com/benjaminmweribaya/AI-Enhanced-Threat-Detector)** - AI-based cybersecurity threat detection system.  
 🔹 **[Real-Time Anomaly Detection in IoT Networks](https://github.com/benjaminmweribaya/Real-Time-Anomaly-Detection-in-IoT-Networks)** - Detect anomalies in IoT networks using AI.  
 🔹 **[Food Delivery App](https://github.com/benjaminmweribaya/Food-Delivery-App)** - A React Native app for ordering food.  
 🔹 **[Password Generator](https://github.com/benjaminmweribaya/Password-Generator)** - Secure password generator tool.  

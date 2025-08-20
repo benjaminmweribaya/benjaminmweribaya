@@ -78,7 +78,6 @@
 🔹 **[Leetcode Problem Tracer](https://github.com/benjaminmweribaya/Leetcode-Problem-Tracer)** - Track and organize Leetcode practice efficiently.  
 🔹 **[URL Shortener](https://github.com/benjaminmweribaya/URL-Shortener)** - A tool to generate shortened URLs.  
 🔹 **[AI Resume Screener](https://github.com/benjaminmweribaya/AI-Resume-Screener)** - AI-powered tool for analyzing resumes.  
-🔹 **[AI Code Review Bot](https://github.com/benjaminmweribaya/AI-Code-Review-Bot)** - Automating code reviews with AI.  
 🔹 **[NMT Agent for Low-Resource Languages](https://github.com/benjaminmweribaya/NMT-Agent-for-Low-Resource-Languages)** - Neural Machine Translation for underserved languages.  
 🔹 **[AI-Enhanced Cybersecurity Threat Detector](https://github.com/benjaminmweribaya/AI-Enhanced-Cybersecurity-Threat-Detector)** - AI-based cybersecurity threat detection system.  
 🔹 **[Real-Time Anomaly Detection in IoT Networks](https://github.com/benjaminmweribaya/Real-Time-Anomaly-Detection-in-IoT-Networks)** - Detect anomalies in IoT networks using AI.  

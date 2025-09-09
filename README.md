@@ -83,7 +83,7 @@
 🔹 **[Real-Time Anomaly Detection in IoT Networks](https://github.com/benjaminmweribaya/Real-Time-Anomaly-Detection-in-IoT-Networks)** - Detect anomalies in IoT networks using AI.  
 🔹 **[Food Delivery App](https://github.com/benjaminmweribaya/Food-Delivery-App)** - A React Native app for ordering food.  
 🔹 **[Password Generator](https://github.com/benjaminmweribaya/Password-Generator)** - Secure password generator tool.  
-🔹 **[Customer Support Chatbot](https://github.com/benjaminmweribaya/Customer-Support-Chatbot)** - AI-powered chatbot for customer support.  
+🔹 **[Customer Support Chatbot](https://github.com/benjaminmweribaya/AI-Powered-Customer-Support-Chatbot)** - AI-powered chatbot for customer support.  
 🔹 **[Time Tracking App](https://github.com/benjaminmweribaya/Time-Tracking-App)** - A tool to track and manage time effectively.  
 
 ---

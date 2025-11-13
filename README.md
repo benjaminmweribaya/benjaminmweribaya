@@ -73,7 +73,7 @@
 🔹 **[Taskly App](https://github.com/benjaminmweribaya/taskly-app-front-end)** - A task management app for productivity.   
 🔹 **[User Management System](https://github.com/benjaminmweribaya/user-management-system)** - A system for managing user authentication and roles.  
 🔹 **[Movie Character Explorer](https://github.com/benjaminmweribaya/movie-character-explorer)** - Discover movie characters with detailed info.  
-🔹 **[Becof Organic Chemicals](https://github.com/benjaminmweribaya/becof-organic-chemicals)** - Eco-friendly chemical solutions for agriculture.  
+🔹 **[Becof E-Commerce Site](https://github.com/benjaminmweribaya/becof-ecommerce)** - Eco-friendly chemical solutions for agriculture.  
 🔹 **[BenitoLoop](https://github.com/benjaminmweribaya/BenitoLoop)** - Promoting sustainability by managing textile waste.  
 🔹 **[Leetcode Problem Tracer](https://github.com/benjaminmweribaya/Leetcode-Problem-Tracer)** - Track and organize Leetcode practice efficiently.  
 🔹 **[URL Shortener](https://github.com/benjaminmweribaya/URL-Shortener)** - A tool to generate shortened URLs.  

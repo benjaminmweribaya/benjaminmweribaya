@@ -10,7 +10,7 @@
 
 - 🌍 Based in **Nairobi, Kenya**
 - 🧠 **Engineer by Mindset**, **Developer by Craft**, **Visionary by Purpose**
-- 🏗️ Founder of **Teevexa** — Blockchain-powered traceability and impact solutions
+- 🏗️ Founder of **Teevexa** - Blockchain-powered traceability and impact solutions
 - 💡 Passionate about **cloud computing**, **microservices**, **clean architecture**, and **human-centered design**
 
 ---
